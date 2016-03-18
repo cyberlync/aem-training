@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Training Package</comment>
+<entry key="createdBy">shashi</entry>
+<entry key="name">aem-training-content</entry>
+<entry key="created">2016-03-18T07:30:18.567+0530</entry>
+<entry key="groupId">com.cylync.training</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">Cyberlync</entry>
+<entry key="description">Maven Multimodule project for AEM Training.</entry>
+<entry key="artifactId">aem-training-content</entry>
+<entry key="path">/etc/packages/Cyberlync/aem-training-content.zip</entry>
+</properties>
